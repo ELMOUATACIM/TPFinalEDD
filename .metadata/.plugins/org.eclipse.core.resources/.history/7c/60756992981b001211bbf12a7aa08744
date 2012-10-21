@@ -35,7 +35,7 @@ public class FileParser {
 		}
 		
 		System.out.println("le fichier "+file.getName()+" contient "+contentHandler.getcompt()+" ligne(s)");
-		System.out.println("dont " + contentHandler.getcomptC()+ " de Commentaire(s)");
+		System.out.println("le fichier "+file.getName()+" contient "+contentHandler.getcompt()+" ligne(s)");
 
 			}
 	

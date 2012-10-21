@@ -28,15 +28,14 @@ public class FileParser {
 			contentHandler.commentligne(line, "#");
 			System.out.println(line);
 			
-		} 
+		}
 		
 		}catch(Exception e){
 			System.out.println(e.getMessage());
 		}
 		
 		System.out.println("le fichier "+file.getName()+" contient "+contentHandler.getcompt()+" ligne(s)");
-		System.out.println("dont " + contentHandler.getcomptC()+ " de Commentaire(s)");
-
+		
 			}
 	
 	
