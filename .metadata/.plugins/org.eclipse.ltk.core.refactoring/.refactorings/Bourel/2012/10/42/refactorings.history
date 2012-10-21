@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;TPFinalEDD/src&apos;&#x0A;- Original project: &apos;Bourel&apos;&#x0A;- Destination element: &apos;TPFinalEDD/src&apos;&#x0A;- Original elements:&#x0A;     Bourel/src/com.dosi.parser&#x0A;     Bourel/src/com.dosi.test" description="Copy packages" destination="=TPFinalEDD/src" element1="/src&lt;com.dosi.parser" element2="/src&lt;com.dosi.test" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1350832315332" version="1.0"/>
+</session>
